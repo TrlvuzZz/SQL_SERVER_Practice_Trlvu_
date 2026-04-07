@@ -29,6 +29,27 @@
 * Kiểm tra cổng 35299 có đang mở
 <img width="1920" height="1080" alt="Screenshot 2026-04-07 220352" src="https://github.com/user-attachments/assets/0de02574-a86a-4561-b7a7-5e8729b0b4e5" />
 
+* Kiểm tra lại bằng tool CurrPorts v2.61 - Monitoring Opened TCP/IP netwwork ports
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27f5fd95-6c40-4168-b5e9-979533f0119d" />
+
+* SQL Server đang mở cổng 35299
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5c60ecc9-082b-41b4-9ddc-58e75d34d073" />
+
+4. Cài đặt _SQL Server Management Studio_
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/881790b4-ebe7-473d-bedf-8a0196d9b6ec" />
+
+5. Đăng nhập vào _SQL Server_ bằng 2 cách: _Windows Authentication_ và _SQL Server Authentication_
+
+* Kết nối bằng WIndows Authentication:
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/e97295e7-e664-479d-8818-e1eba3798249" />
+
+* Kết nối bằng username và password
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/0d3e5db4-5f12-4708-871d-944daa3cda77" />
+
+* Kết quả login bằng 2 cách
+<img width="1920" height="1080" alt="Screenshot 2026-04-07 223059" src="https://github.com/user-attachments/assets/457ac5dd-dbb4-4d56-bb23-8827a9809a7f" />
+
+6. 
 
 
 
