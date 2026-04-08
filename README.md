@@ -65,7 +65,28 @@ Thông tin sinh viên:
 7. Tạo bảng dữ liệu với tên `SinhVien`, có Khóa chính (Primary Key) là trường `masv`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cc0281b-f923-47e8-92d9-29e758f28676" />
 
-8. 
+8. Import dữ liệu từ file mẫu `svtnut.csv`
+
++ Import dữ liệu
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/7c169624-d2d5-464a-91bc-dcdf392817b2" />
+
++ Import dữ liệu thành công
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/cfd24c03-42cf-44bf-89f0-1565793fa88d" />
+
+9. Kiểm tra số dòng của bảng dữ leiẹu sau khi import
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9a68001d-5d8a-4ca2-b503-aa8fa41e521d" />
+
+10. Thêm dữ liệu cá nhân của sinh viên vào bảng
+
++ Thêm dữ liệu thành công
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/e0365598-66ec-409f-8bc1-56daf410dc14" />
+
++ Kiểm tra dữ liệu sau khi nhập
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08cd92c2-cc47-47e9-a620-68f46a084a5d" />
+
+11. 
+
+
 
 
 
