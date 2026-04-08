@@ -1,5 +1,10 @@
 # SQL_SERVER_Practice_Trlvu_
-
+Thông tin sinh viên:
++ Họ và tên: Trần Lâm Vũ
++ Lớp: K59KMT.K01
++ Mã số sinh viên: K235510205299
++ Trường: Đại học Kỹ thuật Công Nghiệp Thái Nguyên
+---
 1. Cài đặt _SQL Server 2025 Developer_, cài đặt với 2 kiểu login (Mixed Mode): _Windows Authentication_ và _SQL Server Authentication_ 
 <img width="1919" height="1018" alt="Screenshot 2026-04-07 105204" src="https://github.com/user-attachments/assets/35b7ce7f-4f1a-4621-a3b9-253e86ae4c81" />
  
@@ -26,13 +31,13 @@
 * Restart SQL Server
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f633bb58-a774-4794-a22f-3593b493b0e5" />
 
-* Kiểm tra cổng 35299 có đang mở
+* Kiểm tra cổng `35299` có đang mở
 <img width="1920" height="1080" alt="Screenshot 2026-04-07 220352" src="https://github.com/user-attachments/assets/0de02574-a86a-4561-b7a7-5e8729b0b4e5" />
 
 * Kiểm tra lại bằng tool CurrPorts v2.61 - Monitoring Opened TCP/IP netwwork ports
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27f5fd95-6c40-4168-b5e9-979533f0119d" />
 
-* SQL Server đang mở cổng 35299
+* SQL Server đang mở cổng `35299`
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5c60ecc9-082b-41b4-9ddc-58e75d34d073" />
 
 4. Cài đặt _SQL Server Management Studio_
@@ -49,8 +54,18 @@
 * Kết quả login bằng 2 cách
 <img width="1920" height="1080" alt="Screenshot 2026-04-07 223059" src="https://github.com/user-attachments/assets/457ac5dd-dbb4-4d56-bb23-8827a9809a7f" />
 
-6. 
+6. Tạo cơ sở dữ liệu mới:
 
++ Database: Quanly_Sinhvien
+<img width="1604" height="897" alt="image" src="https://github.com/user-attachments/assets/2ac30b06-fe89-4c4c-a1cd-78f30cd70aa2" />
+
++ Đường dẫn (Path) lưu trữ file dữ liệu `Quanly_Sinhvien_Data` và file lưu log `Quanly_Sinhvien_Log` : `E:\SQLData`
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/6b3c404d-2457-4ba7-9c1f-73a5f3e325ab" />
+
+7. Tạo bảng dữ liệu với tên `SinhVien`, có Khóa chính (Primary Key) là trường `masv`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cc0281b-f923-47e8-92d9-29e758f28676" />
+
+8. 
 
 
 
