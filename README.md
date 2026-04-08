@@ -74,7 +74,7 @@ Thông tin sinh viên:
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/cfd24c03-42cf-44bf-89f0-1565793fa88d" />
 
 9. Kiểm tra số dòng của bảng dữ leiẹu sau khi import
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/9a68001d-5d8a-4ca2-b503-aa8fa41e521d" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/b90ad1ff-be73-463f-accd-0703c2d57c69" />
 
 10. Thêm dữ liệu cá nhân của sinh viên vào bảng
 
@@ -82,9 +82,18 @@ Thông tin sinh viên:
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/e0365598-66ec-409f-8bc1-56daf410dc14" />
 
 + Kiểm tra dữ liệu sau khi nhập
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08cd92c2-cc47-47e9-a620-68f46a084a5d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f2f6330-166d-488f-9c70-b2dc97789802" />
 
-11. 
+11.  Gõ lệnh để update trường _noisinh_ thành 'Sao Hoả' cho những dòng có _noisinh_ và _diachi_ đều là NULL
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/e96111cd-9312-4fed-a2d2-bbff0aa7bb1e" />
+
+12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a095bf12-1064-4a6b-82c5-5c106507d61e" />
+
++ Kiểm tra bảng SaoHoa
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a0df9a35-a42c-42f5-a92a-5e612de0d9b7" />
+
+13. 
 
 
 
