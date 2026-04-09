@@ -73,7 +73,7 @@
 + Import dữ liệu thành công
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/cfd24c03-42cf-44bf-89f0-1565793fa88d" />
 
-## 9. Kiểm tra số dòng của bảng dữ leiẹu sau khi import
+## 9. Kiểm tra số dòng của bảng dữ liệu sau khi import
 <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/b90ad1ff-be73-463f-accd-0703c2d57c69" />
 
 ## 10. Thêm dữ liệu cá nhân của sinh viên vào bảng
