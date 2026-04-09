@@ -31,7 +31,7 @@
 * Restart SQL Server
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f633bb58-a774-4794-a22f-3593b493b0e5" />
 
-* Kiểm tra cổng `35299` có đang mở
+* Kiểm tra cổng `35299` có đang mở bằng lệnh cmd `netstat -ano | findstr LISTENING`
 <img width="1920" height="1080" alt="Screenshot 2026-04-07 220352" src="https://github.com/user-attachments/assets/0de02574-a86a-4561-b7a7-5e8729b0b4e5" />
 
 * Kiểm tra lại bằng tool _CurrPorts v2.61 - Monitoring Opened TCP/IP netwwork ports_
