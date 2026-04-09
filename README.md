@@ -1,14 +1,14 @@
 # SQL_SERVER_Practice_Trlvu_
-Thông tin sinh viên:
-+ Họ và tên: Trần Lâm Vũ
-+ Lớp: K59KMT.K01
-+ Mã số sinh viên: K235510205299
-+ Trường: Đại học Kỹ thuật Công Nghiệp Thái Nguyên
+## Thông tin sinh viên:
++ **Họ và tên:** Trần Lâm Vũ
++ **Lớp:** K59KMT.K01
++ **Mã số sinh viên:** K235510205299
++ **Trường:** Đại học Kỹ thuật Công Nghiệp Thái Nguyên
 ---
-1. Cài đặt _SQL Server 2025 Developer_, cài đặt với 2 kiểu login (Mixed Mode): _Windows Authentication_ và _SQL Server Authentication_ 
+## 1. Cài đặt _SQL Server 2025 Developer_, cài đặt với 2 kiểu login (Mixed Mode): _Windows Authentication_ và _SQL Server Authentication_ 
 <img width="1919" height="1018" alt="Screenshot 2026-04-07 105204" src="https://github.com/user-attachments/assets/35b7ce7f-4f1a-4621-a3b9-253e86ae4c81" />
  
- 2+3. Cấu hình **SQL Server** :
+## 2+3. Cấu hình _SQL Server_ :
 
 * Các service đang chạy
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/24beeb5e-75f4-49f9-871a-571210aa76dc" />
@@ -34,38 +34,38 @@ Thông tin sinh viên:
 * Kiểm tra cổng `35299` có đang mở
 <img width="1920" height="1080" alt="Screenshot 2026-04-07 220352" src="https://github.com/user-attachments/assets/0de02574-a86a-4561-b7a7-5e8729b0b4e5" />
 
-* Kiểm tra lại bằng tool CurrPorts v2.61 - Monitoring Opened TCP/IP netwwork ports
+* Kiểm tra lại bằng tool _CurrPorts v2.61 - Monitoring Opened TCP/IP netwwork ports_
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27f5fd95-6c40-4168-b5e9-979533f0119d" />
 
 * SQL Server đang mở cổng `35299`
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5c60ecc9-082b-41b4-9ddc-58e75d34d073" />
 
-4. Cài đặt _SQL Server Management Studio_
+## 4. Cài đặt _SQL Server Management Studio_
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/881790b4-ebe7-473d-bedf-8a0196d9b6ec" />
 
-5. Đăng nhập vào _SQL Server_ bằng 2 cách: _Windows Authentication_ và _SQL Server Authentication_
+## 5. Đăng nhập vào _SQL Server_ bằng 2 cách: _Windows Authentication_ và _SQL Server Authentication_
 
-* Kết nối bằng WIndows Authentication:
+* Kết nối bằng _Windows Authentication_:
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/e97295e7-e664-479d-8818-e1eba3798249" />
 
-* Kết nối bằng username và password
+* Kết nối bằng _username_ và _password_
 <img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/0d3e5db4-5f12-4708-871d-944daa3cda77" />
 
 * Kết quả login bằng 2 cách
 <img width="1920" height="1080" alt="Screenshot 2026-04-07 223059" src="https://github.com/user-attachments/assets/457ac5dd-dbb4-4d56-bb23-8827a9809a7f" />
 
-6. Tạo cơ sở dữ liệu mới:
+## 6. Tạo cơ sở dữ liệu mới:
 
-+ Database: Quanly_Sinhvien
++ Database: `Quanly_Sinhvien`
 <img width="1604" height="897" alt="image" src="https://github.com/user-attachments/assets/2ac30b06-fe89-4c4c-a1cd-78f30cd70aa2" />
 
 + Đường dẫn (Path) lưu trữ file dữ liệu `Quanly_Sinhvien_Data` và file lưu log `Quanly_Sinhvien_Log` : `E:\SQLData`
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/6b3c404d-2457-4ba7-9c1f-73a5f3e325ab" />
 
-7. Tạo bảng dữ liệu với tên `SinhVien`, có Khóa chính (Primary Key) là trường `masv`
+## 7. Tạo bảng dữ liệu với tên `SinhVien`, có Khóa chính (Primary Key) là trường `masv`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cc0281b-f923-47e8-92d9-29e758f28676" />
 
-8. Import dữ liệu từ file mẫu `svtnut.csv`
+## 8. Import dữ liệu từ file mẫu `svtnut.csv`
 
 + Import dữ liệu
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/7c169624-d2d5-464a-91bc-dcdf392817b2" />
@@ -73,10 +73,10 @@ Thông tin sinh viên:
 + Import dữ liệu thành công
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/cfd24c03-42cf-44bf-89f0-1565793fa88d" />
 
-9. Kiểm tra số dòng của bảng dữ leiẹu sau khi import
+## 9. Kiểm tra số dòng của bảng dữ leiẹu sau khi import
 <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/b90ad1ff-be73-463f-accd-0703c2d57c69" />
 
-10. Thêm dữ liệu cá nhân của sinh viên vào bảng
+## 10. Thêm dữ liệu cá nhân của sinh viên vào bảng
 
 + Thêm dữ liệu thành công
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/e0365598-66ec-409f-8bc1-56daf410dc14" />
@@ -84,34 +84,34 @@ Thông tin sinh viên:
 + Kiểm tra dữ liệu sau khi nhập
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f2f6330-166d-488f-9c70-b2dc97789802" />
 
-11.  Gõ lệnh để update trường _noisinh_ thành 'Sao Hoả' cho những dòng có _noisinh_ và _diachi_ đều là NULL
+## 11.  Gõ lệnh để update trường _noisinh_ thành 'Sao Hoả' cho những dòng có _noisinh_ và _diachi_ đều là NULL
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/e96111cd-9312-4fed-a2d2-bbff0aa7bb1e" />
 
-12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
+## 12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a095bf12-1064-4a6b-82c5-5c106507d61e" />
 
 + Kiểm tra bảng SaoHoa
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a0df9a35-a42c-42f5-a92a-5e612de0d9b7" />
 
-13. Xóa những sinh viên có cùng họ Trần
+## 13. Xóa những sinh viên có cùng họ Trần
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/d8a0c21e-31af-4528-a554-ab62d2971090" />
 
-14. Xuất toàn bộ kết quả của các bước 6 -> 13 ra file #dulieu.sql#
+## 14. Xuất toàn bộ kết quả của các bước 6 -> 13 ra file `dulieu.sql`
 <img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/eb7ac844-e7e7-466d-82b4-f464e138705f" />
 
 + Xuất file _dulieu.sql_ thành công
 <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/775fc12d-0b91-423a-b466-518596d8cbb1" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/406a1017-f1a8-45b4-bb3e-dfd4593309db" />
 
-15. Xóa cơ dở dữ liệu `Quanly_Sinhvien`
+## 15. Xóa cơ dở dữ liệu `Quanly_Sinhvien`
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a987d656-5e2c-49ed-9820-9de8998f29b6" />
 
 + Kiểm tra path 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2d6f76a6-19eb-4915-9c15-d7f18f8aa91e" />
 
-16. Mở file dữ liệu `dulieu.sql`
+## 16. Mở file dữ liệu `dulieu.sql`
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/26d23cff-b621-48ee-8f8c-79c0f5fbff7f" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ec79a084-5421-47b0-a9ef-233f0eb8ae3e" />
 
-17. Upload file `dulieu.sql` lên Github repository của em
+## 17. Upload file `dulieu.sql` lên Github repository của em
 <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/767d4d4f-a43b-41aa-99fe-68a5a33d3a3f" />
