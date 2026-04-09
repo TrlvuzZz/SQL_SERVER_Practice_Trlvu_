@@ -22,7 +22,7 @@
 * Listen ALL = YES
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5cfb5b67-029c-4fe6-bfbb-3b295973ecd1" />
 
-* IP address + Dynamic Port
+* IP address + Dynamic Port với cổng `35299`
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/fbc8c06c-09be-42a9-a0e3-17873ea1974a" />
 
 * Thông báo Mọi thứ đã được lưu lại, restart SQL Server mới có hiệu lực
