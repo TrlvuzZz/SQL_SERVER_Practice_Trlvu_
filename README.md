@@ -114,11 +114,4 @@ Thông tin sinh viên:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ec79a084-5421-47b0-a9ef-233f0eb8ae3e" />
 
 17. Upload file `dulieu.sql` lên Github repository của em
-
-
-
-
-
-
-
-
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/767d4d4f-a43b-41aa-99fe-68a5a33d3a3f" />
