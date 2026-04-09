@@ -93,7 +93,28 @@ Thông tin sinh viên:
 + Kiểm tra bảng SaoHoa
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a0df9a35-a42c-42f5-a92a-5e612de0d9b7" />
 
-13. 
+13. Xóa những sinh viên có cùng họ Trần
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/d8a0c21e-31af-4528-a554-ab62d2971090" />
+
+14. Xuất toàn bộ kết quả của các bước 6 -> 13 ra file #dulieu.sql#
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/eb7ac844-e7e7-466d-82b4-f464e138705f" />
+
++ Xuất file _dulieu.sql_ thành công
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/775fc12d-0b91-423a-b466-518596d8cbb1" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/406a1017-f1a8-45b4-bb3e-dfd4593309db" />
+
+15. Xóa cơ dở dữ liệu `Quanly_Sinhvien`
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a987d656-5e2c-49ed-9820-9de8998f29b6" />
+
++ Kiểm tra path 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2d6f76a6-19eb-4915-9c15-d7f18f8aa91e" />
+
+16. Mở file dữ liệu `dulieu.sql`
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/26d23cff-b621-48ee-8f8c-79c0f5fbff7f" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ec79a084-5421-47b0-a9ef-233f0eb8ae3e" />
+
+17. Upload file `dulieu.sql` lên Github repository của em
+
 
 
 
