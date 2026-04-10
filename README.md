@@ -40,10 +40,10 @@
 * SQL Server đang mở cổng `35299`
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5c60ecc9-082b-41b4-9ddc-58e75d34d073" />
 
-### 4. Cài đặt _SQL Server Management Studio_
+### 4. Cài đặt _SQL Server Management Studio 22_
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/881790b4-ebe7-473d-bedf-8a0196d9b6ec" />
 
-### 5. Đăng nhập vào _SQL Server Management Studio_ bằng 2 cách: _Windows Authentication_ và _SQL Server Authentication_
+### 5. Đăng nhập vào _SQL Server Management Studio 22_ bằng 2 cách: _Windows Authentication_ và _SQL Server Authentication_
 
 * Kết nối bằng _Windows Authentication_:
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/e97295e7-e664-479d-8818-e1eba3798249" />
