@@ -87,10 +87,10 @@
 ### 11.  Gõ lệnh để update trường _noisinh_ thành 'Sao Hoả' cho những dòng có _noisinh_ và _diachi_ đều là NULL
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/e96111cd-9312-4fed-a2d2-bbff0aa7bb1e" />
 
-### 12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
+### 12. Tạo bảng `SaoHoa` gồm những sinh viên có nơi sinh ở 'Sao Hoả'
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a095bf12-1064-4a6b-82c5-5c106507d61e" />
 
-+ Kiểm tra bảng SaoHoa
++ Kiểm tra bảng `SaoHoa`
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a0df9a35-a42c-42f5-a92a-5e612de0d9b7" />
 
 ### 13. Xóa những sinh viên có cùng họ Trần
