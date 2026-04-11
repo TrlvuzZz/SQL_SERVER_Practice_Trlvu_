@@ -34,7 +34,7 @@
 * Kiểm tra cổng `35299` có đang mở bằng lệnh cmd `netstat -ano | findstr LISTENING`
 <img width="1920" height="1080" alt="Screenshot 2026-04-07 220352" src="https://github.com/user-attachments/assets/0de02574-a86a-4561-b7a7-5e8729b0b4e5" />
 
-* Kiểm tra lại bằng tool _CurrPorts v2.61 - Monitoring Opened TCP/IP netwwork ports_
+* Kiểm tra lại bằng tool _CurrPorts v2.61 - Monitoring Opened TCP/IP network ports_
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27f5fd95-6c40-4168-b5e9-979533f0119d" />
 
 * SQL Server đang mở cổng `35299`
@@ -103,7 +103,7 @@
 <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/775fc12d-0b91-423a-b466-518596d8cbb1" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/406a1017-f1a8-45b4-bb3e-dfd4593309db" />
 
-### 15. Xóa cơ dở dữ liệu `Quanly_Sinhvien`
+### 15. Xóa cơ sở dữ liệu `Quanly_Sinhvien`
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a987d656-5e2c-49ed-9820-9de8998f29b6" />
 
 + Kiểm tra path 
