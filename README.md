@@ -5,7 +5,7 @@
 + **Mã số sinh viên:** K235510205299
 + **Trường:** Đại học Kỹ thuật Công Nghiệp Thái Nguyên
 ---
-### 1. Cài đặt _SQL Server 2025 Developer_, cài đặt với 2 kiểu login (Mixed Mode): _Windows Authentication_ và _SQL Server Authentication_ 
+### 1. Cài đặt _SQL Server 2025 Developer_, cài đặt với 2 kiểu login (Mixed Mode): _Windows authentication_ và _SQL Server authentication_ 
 <img width="1919" height="1018" alt="Screenshot 2026-04-07 105204" src="https://github.com/user-attachments/assets/35b7ce7f-4f1a-4621-a3b9-253e86ae4c81" />
  
 ### 2&3. Cấu hình _SQL Server_
@@ -43,12 +43,12 @@
 ### 4. Cài đặt _SQL Server Management Studio 22_
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/881790b4-ebe7-473d-bedf-8a0196d9b6ec" />
 
-### 5. Đăng nhập vào _SQL Server Management Studio 22_ bằng 2 cách: _Windows Authentication_ và _SQL Server Authentication_
+### 5. Đăng nhập vào _SQL Server Management Studio 22_ bằng 2 cách: _Windows authentication_ và _SQL Server authentication_
 
-* Kết nối bằng _Windows Authentication_:
+* Kết nối bằng _Windows authentication_:
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/e97295e7-e664-479d-8818-e1eba3798249" />
 
-* Kết nối bằng _SQL Server Authentication_
+* Kết nối bằng _SQL Server authentication_
 <img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/0d3e5db4-5f12-4708-871d-944daa3cda77" />
 
 * Kết quả login bằng 2 cách
