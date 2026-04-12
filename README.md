@@ -3,7 +3,7 @@
 + **Họ và tên:** Trần Lâm Vũ
 + **Lớp:** K59KMT.K01
 + **Mã số sinh viên:** K235510205299
-+ **Trường:** Đại học Kỹ thuật Công Nghiệp Thái Nguyên
++ **Trường:** Đại học Kỹ thuật Công nghiệp Thái Nguyên
 ---
 ### 1. Cài đặt _SQL Server 2025 Developer_, cài đặt với 2 kiểu login (Mixed Mode): _Windows authentication_ và _SQL Server authentication_ 
 <img width="1919" height="1018" alt="Screenshot 2026-04-07 105204" src="https://github.com/user-attachments/assets/35b7ce7f-4f1a-4621-a3b9-253e86ae4c81" />
