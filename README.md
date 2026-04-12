@@ -111,7 +111,7 @@
 
 ### 16. Mở file dữ liệu `dulieu.sql`
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/26d23cff-b621-48ee-8f8c-79c0f5fbff7f" />
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ec79a084-5421-47b0-a9ef-233f0eb8ae3e" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/11e43367-da2d-4026-9d2d-10ed60df536a" />
 
 ### 17. Upload file `dulieu.sql` lên Github repository của em
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/252987d6-3134-4216-830e-7ceb0ec44ad3" />
